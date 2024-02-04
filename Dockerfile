@@ -1,1 +1,1 @@
-FROM --platform=linux/arm gcr.io/kaniko-project/executor:latest
+FROM --platform=linux/arm64 gcr.io/kaniko-project/executor:latest

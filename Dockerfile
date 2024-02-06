@@ -1,1 +1,1 @@
-FROM --platform=linux/arm64 gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.25.3
+FROM --platform=linux/arm64 gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.25.3

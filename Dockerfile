@@ -1,1 +1,1 @@
-FROM --platform=linux/arm64 gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.25.3
+FROM --platform=linux/amd64 ubuntu:22.04
